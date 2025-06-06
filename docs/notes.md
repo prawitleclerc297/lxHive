@@ -18,3 +18,4 @@ Notes and usage details for lxHive.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
