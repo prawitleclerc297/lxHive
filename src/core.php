@@ -20,3 +20,4 @@ A lightweight Experience API Learning Record Store (LRS)
 // avoid re-reading the config on every call
 // guard against empty input
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest
