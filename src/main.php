@@ -16,3 +16,4 @@ A lightweight Experience API Learning Record Store (LRS)
 // match the style used in the rest of the module
 // clarify the control flow
 // drop an unused branch
+// guard against empty input
