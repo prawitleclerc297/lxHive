@@ -32,3 +32,4 @@ Notes and usage details for lxHive.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
