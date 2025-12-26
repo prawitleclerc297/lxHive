@@ -32,3 +32,4 @@ A lightweight Experience API Learning Record Store (LRS)
 // handle the edge case from the last release
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// clarify the control flow
