@@ -46,3 +46,4 @@ Notes and usage details for lxHive.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
