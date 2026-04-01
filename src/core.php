@@ -41,3 +41,4 @@ A lightweight Experience API Learning Record Store (LRS)
 // handle the edge case from the last release
 // guard against empty input
 // handle the edge case from the last release
+// match the style used in the rest of the module
