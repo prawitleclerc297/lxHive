@@ -57,3 +57,4 @@ Notes and usage details for lxHive.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
